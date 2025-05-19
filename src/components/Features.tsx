@@ -2,16 +2,12 @@
 import React from 'react';
 // import vid from 'assets/videoplayback (5).mp4';
 import vid1 from "../../public/videos/vid 1.mp4"
-<<<<<<< HEAD
 import vid2 from "../../public/videos/vid 2.mp4"
 import vid3 from "../../public/videos/vid 3.mp4"
 import vid4 from "../../public/videos/vid 4.mp4"
 import vid5 from "../../public/videos/vid 5.mp4"
 import vid6 from "../../public/videos/vid 6.mp4"
 import vid7 from "../../public/videos/vid 7.mp4"
-=======
-import audio from "./assets/Audio Speaker.jpg"
->>>>>>> 8ab91c4873ddc13bb2a182790c83a77a8d02d05f
 
 const Features = () => {
   const features = [
@@ -20,39 +16,24 @@ const Features = () => {
       title: "લગન",
       description: "અમારી પ્રોફેશનલ-ગ્રેડ સ્પીકર સિસ્ટમ્સ સાથે ક્રિસ્ટલ-ક્લિયર હાઇ, ડીપ બાસ અને સંપૂર્ણ સંતુલિત મિડરેન્જનો અનુભવ કરો.",
       // image: "assets/videoplayback (5).mp4"
-<<<<<<< HEAD
       image: vid5
-=======
-      image: vid1
->>>>>>> 8ab91c4873ddc13bb2a182790c83a77a8d02d05f
 
     },
     {
       id: 2,
-<<<<<<< HEAD
       title: "રાસ - ગરબા",
       description: "હવે લગ્ન અને રાસ ગરબા માટે પ્રોફેશનલ ડી.જે.સિસ્ટમ ભાડે ઉપલબ્ધ છે શ્રેષ્ઠ સાઉન્ડ અને લાઇટિંગ સાથે તમારું ઇવેન્ટ બનાવી દો યાદગાર!",
       image: vid7
-=======
-      title: "ફુલેકુ",
-      description: "હવે લગ્ન અને રાસ ગરબા માટે પ્રોફેશનલ ડી.જે.સિસ્ટમ ભાડે ઉપલબ્ધ છે શ્રેષ્ઠ સાઉન્ડ અને લાઇટિંગ સાથે તમારું ઇવેન્ટ બનાવી દો યાદગાર!",
-      image: vid1
->>>>>>> 8ab91c4873ddc13bb2a182790c83a77a8d02d05f
     },
     {
       id: 3,
       title: "રાસ - ગરબા",
       description: "લગ્ન અને રાસ ગરબા માટે અમારી પ્રોફેશનલ ડી.જે. સિસ્ટમ ભાડે ઉપલબ્ધ છે. શ્રેષ્ઠ સાઉન્ડ અને લાઈટિંગથી આપના અવસરને બનાવો વિશિષ્ટ અને યાદગાર!",
-<<<<<<< HEAD
       image: vid2
-=======
-      image: vid1
->>>>>>> 8ab91c4873ddc13bb2a182790c83a77a8d02d05f
     },
     {
       id: 4,
       title: "રાસ - ગરબા",
-<<<<<<< HEAD
       description: "અમારી પ્રોફેશનલ-ગ્રેડ સ્પીકર સિસ્ટમ્સ સાથે ક્રિસ્ટલ-ક્લિયર હાઇ, ડીપ બાસ અને સંપૂર્ણ સંતુલિત મિડરેન્જનો અનુભવ કરો.",
       image: vid3
     },
@@ -64,31 +45,17 @@ const Features = () => {
     },
     {
       id: 6,
-=======
-      description: "લગ્ન અને રાસ ગરબા માટે અમારી પ્રોફેશનલ ડી.જે. સિસ્ટમ ભાડે ઉપલબ્ધ છે. શ્રેષ્ઠ સાઉન્ડ અને લાઈટિંગથી આપના અવસરને બનાવો વિશિષ્ટ અને યાદગાર!",
-      image: vid1
-    },
-    {
-      id: 5,
->>>>>>> 8ab91c4873ddc13bb2a182790c83a77a8d02d05f
       title: "રાસ - ગરબા",
       description: "લગ્ન અને રાસ ગરબા માટે અમારી પ્રોફેશનલ ડી.જે. સિસ્ટમ ભાડે ઉપલબ્ધ છે. શ્રેષ્ઠ સાઉન્ડ અને લાઈટિંગથી આપના અવસરને બનાવો વિશિષ્ટ અને યાદગાર!",
       image: vid1
     },
     {
       id: 6,
-<<<<<<< HEAD
       title: "ફુલેકુ",
       description: "હવે લગ્ન અને રાસ ગરબા માટે પ્રોફેશનલ ડી.જે.સિસ્ટમ ભાડે ઉપલબ્ધ છે શ્રેષ્ઠ સાઉન્ડ અને લાઇટિંગ સાથે તમારું ઇવેન્ટ બનાવી દો યાદગાર!",
       image: vid6
     },
 
-=======
-      title: "રાસ - ગરબા",
-      description: "લગ્ન અને રાસ ગરબા માટે અમારી પ્રોફેશનલ ડી.જે. સિસ્ટમ ભાડે ઉપલબ્ધ છે. શ્રેષ્ઠ સાઉન્ડ અને લાઈટિંગથી આપના અવસરને બનાવો વિશિષ્ટ અને યાદગાર!",
-      image: vid1
-    }
->>>>>>> 8ab91c4873ddc13bb2a182790c83a77a8d02d05f
   ];
 
   return (
@@ -100,21 +67,13 @@ const Features = () => {
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 mt-12">
           {features.map((feature) => (
             <div key={feature.id} className="bg-card rounded-lg overflow-hidden shadow-lg">
-<<<<<<< HEAD
               <div className="h-64  overflow-hidden">
-=======
-              <div className="h-64 overflow-hidden">
->>>>>>> 8ab91c4873ddc13bb2a182790c83a77a8d02d05f
                 {/* <img
                   src={feature.image}
                   alt={feature.title}
                   className="w-full h-full object-cover"
                 /> */}
-<<<<<<< HEAD
                 <video src={feature.image} className="w-full  h-full object-contain" controls  ></video>
-=======
-                <video src={feature.image} className="w-full h-full object-cover" controls loop  ></video>
->>>>>>> 8ab91c4873ddc13bb2a182790c83a77a8d02d05f
 
               </div>
               <div className="p-6">

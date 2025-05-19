@@ -30,25 +30,15 @@ const Hero = () => {
             <button type='button'
               onClick={() =>
                 window.open(
-<<<<<<< HEAD
                   "https://wa.me/917485950447?text=હાય, હું તમારું ડી.જે. સિસ્ટમ બુક કરવા ઇચ્છું છું!",
-=======
-                  "https://wa.me/918320190482?text=હાય, હું તમારું ડી.જે. સિસ્ટમ બુક કરવા ઇચ્છું છું!",
->>>>>>> 8ab91c4873ddc13bb2a182790c83a77a8d02d05f
                   "_blank"
                 )
               }
               className="bg-primary text-white px-6 py-3 rounded-lg shadow hover:bg-primary/90 transition"
             >
-<<<<<<< HEAD
               હમણાં બુક કરો
             </button>
             <button className="btn btn-outline"><a href="#products"> સ્પીકર્સ જુઓ</a></button>
-=======
-              Book Now
-            </button>
-            <button className="btn btn-outline">સ્પીકર્સ જુઓ</button>
->>>>>>> 8ab91c4873ddc13bb2a182790c83a77a8d02d05f
           </div>
 
           <div className="mt-8 flex items-center gap-6">

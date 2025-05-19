@@ -9,33 +9,21 @@ const Testimonials = () => {
       name: "બિપિન ભાઈ ઢોલરિયા",
       role: "રાસ અને ફુલેકુ",
       comment: "દરેક મહેમાનને મજા આવી, યુથ હોય કે વડીલો – બધાને ગમે તેવા ગીતો વગાડ્યા.5 માંથી 5 સ્ટાર. આવી સર્વિસ ફરીથી જરૂરથી લેશ! આખી સર્વિસ ઉત્તમ રહી, ઇવેન્ટને યાદગાર બનાવી દીધો.",
-<<<<<<< HEAD
       image: img1
-=======
-      image: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
->>>>>>> 8ab91c4873ddc13bb2a182790c83a77a8d02d05f
     },
     {
       id: 2,
       name: "કલ્પેશ ભાઈ કોટડીયા",
       role: "ફુલેકુ",
       comment: "મેં મારી ઇવેન્ટ માટે DJ સિસ્ટમ બુક કરી હતી અને સાચું કહું તો ખૂબ જ સરસ અનુભવ રહ્યો.લાઈટસ ખુબજ આકર્ષક હતી અને સંગીત સાથે perfectly sync થતી હતી – પાર્ટીનો માહોલ જ બની ગયો!",
-<<<<<<< HEAD
       image: img1
-=======
-      image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
->>>>>>> 8ab91c4873ddc13bb2a182790c83a77a8d02d05f
     },
     {
       id: 3,
       name: "અભય વડાલીયા",
       role: "લગ્ન, રાસ",
       comment: "સાઉન્ડ ખુબ જ ક્લિયર અને પાવરફુલ હતું, બેસનો અસરદાર અનુભવ મળ્યો.DJ સમયસર આવેલ અને સેટઅપ ટાઈમ પર તૈયાર કરી દીધો.મારી માંગ મુજબ ગીતો વગાડ્યા અને બધા નાચ્યા વિના રહી ન શક્યા!",
-<<<<<<< HEAD
       image: img1
-=======
-      image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
->>>>>>> 8ab91c4873ddc13bb2a182790c83a77a8d02d05f
     }
   ];
 
@@ -54,11 +42,7 @@ const Testimonials = () => {
                 <img
                   src={testimonial.image}
                   alt={testimonial.name}
-<<<<<<< HEAD
                   className="w-12 h-12 rounded-full object-contain mr-4"
-=======
-                  className="w-12 h-12 rounded-full object-cover mr-4"
->>>>>>> 8ab91c4873ddc13bb2a182790c83a77a8d02d05f
                 />
                 <div>
                   <h4 className="font-bold">{testimonial.name}</h4>
@@ -74,7 +58,6 @@ const Testimonials = () => {
           <p className="text-lg mb-8 max-w-2xl mx-auto">
             "અમારા પાવરફુલ ઓડિયો અને DJ સર્વિસ સાથે તમારા દરેક પ્રસંગને બનાવો યાદગાર અને ઉજવણિયું! લગ્ન, બર્થડે કે કોઈપણ ઇવેન્ટ – અમે આપના આનંદને મ્યુઝિકના માધ્યમથી ઊર્જાવાન અને રંગીન બનાવીએ છીએ. આજે જ જોડાઓ અને માણો સંગીતમય અનુભવ!"
           </p>
-<<<<<<< HEAD
           {/* <button className="btn btn-primary">જોડાવ આમરી સાથે</button> */}
           <button type='button'
             onClick={() =>
@@ -87,9 +70,6 @@ const Testimonials = () => {
           >
             જોડાવ આમરી સાથે
           </button>
-=======
-          <button className="btn btn-primary">જોડાવ આમરી સાથે</button>
->>>>>>> 8ab91c4873ddc13bb2a182790c83a77a8d02d05f
         </div>
       </div>
     </section>

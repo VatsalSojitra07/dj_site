@@ -14,11 +14,7 @@ const FeaturedProducts = () => {
       description: "Professional DJ system with dual controllers and built-in effects processor",
       // price: 1299.99,
       image: pr,
-<<<<<<< HEAD
       category: "Pro DJ-8000 System",
-=======
-      category: "DJ Systems",
->>>>>>> 8ab91c4873ddc13bb2a182790c83a77a8d02d05f
       icon: <Music size={20} />
     },
     {
@@ -27,45 +23,25 @@ const FeaturedProducts = () => {
       description: "High-performance speaker set with deep bass response and crystal clear highs",
       // price: 899.99,
       image: sp,
-<<<<<<< HEAD
       category: "UltraBass Speaker Set",
-=======
-      category: "Speakers",
->>>>>>> 8ab91c4873ddc13bb2a182790c83a77a8d02d05f
       icon: <Speaker size={20} />
     },
     {
       id: 3,
-<<<<<<< HEAD
       name: "Main Speakers",
       description: "Professional studio monitoring Main Speakers.",
       // price: 349.99,
       image: audio,
       category: "Main Speakers",
-=======
-      name: "StudioMix Headphones",
-      description: "Professional studio monitoring headphones with noise isolation",
-      // price: 349.99,
-      image: audio,
-      category: "Headphones",
->>>>>>> 8ab91c4873ddc13bb2a182790c83a77a8d02d05f
       icon: <Headphones size={20} />
     },
     {
       id: 4,
-<<<<<<< HEAD
       name: "DJ Light",
       description: "DJ light with Disko color light with music combination.",
       // price: 1599.99,
-      image:dj,
+      image: dj,
       category: "DJ Light",
-=======
-      name: "Stage Pro PA System",
-      description: "Complete PA system for live performances with wireless connectivity",
-      // price: 1599.99,
-      image:dj,
-      category: "PA Systems",
->>>>>>> 8ab91c4873ddc13bb2a182790c83a77a8d02d05f
       icon: <Speaker size={20} />
     }
   ];

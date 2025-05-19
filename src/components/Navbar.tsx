@@ -29,7 +29,6 @@ const Navbar = () => {
             <ShoppingCart size={18} />
             <span>Cart (0)</span>
           </button> */}
-<<<<<<< HEAD
           {/* <button className="btn btn-primary">Book Date</button> */}
           <button type='button'
             onClick={() =>
@@ -42,9 +41,6 @@ const Navbar = () => {
           >
             હમણાં બુક કરો
           </button>
-=======
-          <button className="btn btn-primary">Book Date</button>
->>>>>>> 8ab91c4873ddc13bb2a182790c83a77a8d02d05f
         </div>
 
         {/* Mobile Menu Button */}
@@ -70,7 +66,6 @@ const Navbar = () => {
                 <ShoppingCart size={18} />
                 <span>Cart (0)</span>
               </button> */}
-<<<<<<< HEAD
               {/* <button className="btn btn-primary">Book Date</button> */}
               <button type='button'
                 onClick={() =>
@@ -83,9 +78,6 @@ const Navbar = () => {
               >
                 હમણાં બુક કરો
               </button>
-=======
-              <button className="btn btn-primary">Book Date</button>
->>>>>>> 8ab91c4873ddc13bb2a182790c83a77a8d02d05f
             </div>
           </div>
         </div>
